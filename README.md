@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Val
+- 👀 I’m interested in SQL and .Net
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on.
+- 📫 How to reach me valyancoder@gmail.com 
